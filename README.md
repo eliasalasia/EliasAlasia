@@ -36,7 +36,7 @@
       <h3 align="center">Tienda de Ropa</h3>
       <div align="center">
         <a href="https://github.com/eliasalasia/pract-10.git" target="_blank"><img src="https://i.imgur.com/uUwhxTF.png" width="400"></a>
-        <p>Aplicación.</p>
+        <p>Aplicación- En este proyecto realize el manejo de seleccion de articulos, compras y practica en manejo de cambios de rutas.</p>
       </div>
     </td>
   </tr>
@@ -45,7 +45,7 @@
       <h3 align="center">Tienda de Tecnología</h3>
       <div align="center">
         <a href="https://github.com/eliasalasia/Pract-9-E.A.git" target="_blank"><img src="https://i.imgur.com/QtoIHuP.png" width="400"></a>
-        <p>Aplicación.</p>
+        <p>Aplicación funciona completo como tienda de tecnologia, podes seleccionar el producto la cantidas y redirecciona al carrito de compras tambien podes buscar el producto de manera especifica.</p>
       </div>
     </td>
   </tr>

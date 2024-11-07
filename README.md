@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Elias Alasia 👋</h1>
 </div>
-<img src="https://i.imgur.com/CXzGs5q.png">
+<img src="https://i.imgur.com/CXzGs5q.png" width="400">
 
 ## Sobre mi
 

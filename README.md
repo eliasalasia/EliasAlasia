@@ -36,7 +36,7 @@
 <td width="50%">
 <h3 align="center">Tienda de Ropa</h3>
 <div align="center">
-<a href="https://github.com/eliasalasia/pract-10.git" target="_blank"><img src="https://i.imgur.com/sVCdJBV.png" width="400"></a>
+<a href="https://github.com/eliasalasia/pract-10.git" target="_blank"><img src="https://i.imgur.com/uUwhxTF.png" width="400"></a>
 
 <p> aplicacion.</p>
 </div>

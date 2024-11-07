@@ -27,9 +27,9 @@
 <td width="50%">
 <h3 align="center">Pronostico del clima</h3>
 <div align="center">
-<a href="project-final-n3-m0yx59nf9-elias-s-projects-d0079507.vercel.app" target="_blank"><img src="https://i.imgur.com/sVCdJBV.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/eliasalasia/Project-Final-N3EA.git" target="_blank"><img src="https://i.imgur.com/sVCdJBV.png" width="400"></a>
 
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este Proyecto utilice una API del clima y de ubicacion su funcion es dectectar el clima actual y de 5 dias restantes.</p>
+<p> aplicacion- En este Proyecto utilice una API del clima y de ubicacion su funcion es dectectar el clima actual y de 5 dias restantes.</p>
 </div>
                                                                                       
                                                                                       

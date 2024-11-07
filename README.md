@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/CXzGs5q.png">
 
-[![Linkedin](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)]
+[![Linkedin](www.linkedin.com/in/eliasalasia)]
 
 ## Sobre mi
 

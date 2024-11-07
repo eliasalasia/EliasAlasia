@@ -19,7 +19,7 @@
 - MondoDB 
 <br>
 
-## Proyectos *el Clima*
+## Proyectos 
 <table>
 <tr>
 <td width="50%">
@@ -30,7 +30,6 @@
 <p> aplicacion- En este Proyecto utilice una API del clima y de ubicacion su funcion es dectectar el clima actual y de 5 dias restantes.</p>
 </div>
 
-## Proyectos *Tienda*
 <table>
 <tr>
 <td width="50%">
@@ -41,7 +40,6 @@
 <p> aplicacion.</p>
 </div>
 
-## Proyectos *Tienda*
 <table>
 <tr>
 <td width="50%">

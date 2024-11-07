@@ -41,6 +41,16 @@
 <p> aplicacion.</p>
 </div>
 
+## Proyectos *Tienda*
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Tienda de Tecnologia</h3>
+<div align="center">
+<a href="https://github.com/eliasalasia/Pract-9-E.A.git" target="_blank"><img src="https://i.imgur.com/QtoIHuP.png" width="400"></a>
+
+<p> aplicacion.</p>
+</div>
                                                                                       
                                                                                       
 </td>  
@@ -51,7 +61,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-
-
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

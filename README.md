@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-- ⭐ Conocimientos Backend y Frontend ⭐ 
+- ⭐ Conocimientos Backend y Frontend ⭐ 🧑‍🏫 
 
 - HTML5
 - Javascript
@@ -17,7 +17,7 @@
 - SQL server
 - Mysql
 - MondoDB
- 🧑‍🏫 
+ 
 <br>
 
 ## Proyectos 

@@ -19,6 +19,8 @@
 - MondoDB 
 <br>
 
+## Proyectos 
+
 <table>
   <tr>
     <td>
@@ -28,21 +30,21 @@
         <p>Aplicación - En este Proyecto utilicé una API del clima y de ubicación. Su función es detectar el clima actual y de los 5 días restantes.</p>
       </div>
     </td>
-    <br>
+  </tr>
+  <tr>
     <td>
       <h3 align="center">Tienda de Ropa</h3>
       <div align="center">
-        <a href="https://github.com/eliasalasia/pract-10.git" target="_blank"><img src="https://i.imgur.com/uUwhxTF.png"                 width="400"></a>
+        <a href="https://github.com/eliasalasia/pract-10.git" target="_blank"><img src="https://i.imgur.com/uUwhxTF.png" width="400"></a>
         <p>Aplicación.</p>
       </div>
     </td>
   </tr>
-    <br>
   <tr>
     <td>
       <h3 align="center">Tienda de Tecnología</h3>
       <div align="center">
-        <a href="https://github.com/eliasalasia/Pract-9-E.A.git" target="_blank"><img src="https://i.imgur.com/QtoIHuP.png"             width="400"></a>
+        <a href="https://github.com/eliasalasia/Pract-9-E.A.git" target="_blank"><img src="https://i.imgur.com/QtoIHuP.png" width="400"></a>
         <p>Aplicación.</p>
       </div>
     </td>

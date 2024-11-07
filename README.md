@@ -28,6 +28,7 @@
         <p>Aplicación - En este Proyecto utilicé una API del clima y de ubicación. Su función es detectar el clima actual y de los 5 días restantes.</p>
       </div>
     </td>
+    <br>
     <td>
       <h3 align="center">Tienda de Ropa</h3>
       <div align="center">
@@ -36,6 +37,7 @@
       </div>
     </td>
   </tr>
+    <br>
   <tr>
     <td>
       <h3 align="center">Tienda de Tecnología</h3>

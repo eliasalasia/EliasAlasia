@@ -6,7 +6,7 @@
 ## Sobre mi
 
 - ⭐ Conocimientos Backend y Frontend ⭐ 
-- 🧑‍🏫 
+
 - HTML5
 - Javascript
 - React.js
@@ -16,7 +16,8 @@
 - APIrest
 - SQL server
 - Mysql
-- MondoDB 
+- MondoDB
+ 🧑‍🏫 
 <br>
 
 ## Proyectos 

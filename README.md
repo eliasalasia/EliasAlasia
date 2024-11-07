@@ -19,40 +19,30 @@
 - MondoDB 
 <br>
 
-## Proyectos 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Pronostico del clima</h3>
-<div align="center">
-<a href="https://github.com/eliasalasia/Project-Final-N3EA.git" target="_blank"><img src="https://i.imgur.com/sVCdJBV.png" width="400"></a>
-
-<p> aplicacion- En este Proyecto utilice una API del clima y de ubicacion su funcion es dectectar el clima actual y de 5 dias restantes.</p>
-</div>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Tienda de Ropa</h3>
-<div align="center">
-<a href="https://github.com/eliasalasia/pract-10.git" target="_blank"><img src="https://i.imgur.com/uUwhxTF.png" width="400"></a>
-
-<p> aplicacion.</p>
-</div>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Tienda de Tecnologia</h3>
-<div align="center">
-<a href="https://github.com/eliasalasia/Pract-9-E.A.git" target="_blank"><img src="https://i.imgur.com/QtoIHuP.png" width="400"></a>
-
-<p> aplicacion.</p>
-</div>
-                                                                                      
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
-
+  <tr>
+    <td>
+      <h3 align="center">Pronóstico del clima</h3>
+      <div align="center">
+        <a href="https://github.com/eliasalasia/Project-Final-N3EA.git" target="_blank"><img src="https://i.imgur.com/sVCdJBV.png" width="400"></a>
+        <p>Aplicación - En este Proyecto utilicé una API del clima y de ubicación. Su función es detectar el clima actual y de los 5 días restantes.</p>
+      </div>
+    </td>
+    <td>
+      <h3 align="center">Tienda de Ropa</h3>
+      <div align="center">
+        <a href="https://github.com/eliasalasia/pract-10.git" target="_blank"><img src="https://i.imgur.com/uUwhxTF.png"                 width="400"></a>
+        <p>Aplicación.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">Tienda de Tecnología</h3>
+      <div align="center">
+        <a href="https://github.com/eliasalasia/Pract-9-E.A.git" target="_blank"><img src="https://i.imgur.com/QtoIHuP.png"             width="400"></a>
+        <p>Aplicación.</p>
+      </div>
+    </td>
+  </tr>
+</table>

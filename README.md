@@ -3,8 +3,6 @@
 </div>
 <img src="https://i.imgur.com/CXzGs5q.png">
 
-[![Linkedin](www.linkedin.com/in/eliasalasia)]
-
 ## Sobre mi
 
 - ⭐ Conocimientos Backend y Frontend ⭐ 
@@ -31,6 +29,18 @@
 
 <p> aplicacion- En este Proyecto utilice una API del clima y de ubicacion su funcion es dectectar el clima actual y de 5 dias restantes.</p>
 </div>
+
+## Proyectos *Tienda*
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Tienda de Ropa</h3>
+<div align="center">
+<a href="https://github.com/eliasalasia/pract-10.git" target="_blank"><img src="https://i.imgur.com/sVCdJBV.png" width="400"></a>
+
+<p> aplicacion.</p>
+</div>
+
                                                                                       
                                                                                       
 </td>  

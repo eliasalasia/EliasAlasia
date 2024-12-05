@@ -17,6 +17,9 @@
 - SQL server
 - Mysql
 - MondoDB
+- Python
+- SqlServer
+- AWS
  
 <br>
 

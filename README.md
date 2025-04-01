@@ -5,7 +5,8 @@
 
 ## Sobre mi
 
-- ⭐ Conocimientos Backend y Frontend ⭐ 🧑‍🏫 
+- ⭐ Conocimientos Backend y Frontend (Programacion Web Full Stack)⭐ 🧑‍🏫
+- ⭐ Conocimientos Creacion,Analisis,extraccion de datos (Data Science) ⭐ 🧑‍🏫 
 
 - HTML5
 - Javascript
@@ -20,6 +21,12 @@
 - Python
 - SqlServer
 - AWS
+- Docker
+- Airflow
+- Dbt
+- Looker Studio
+- Postgres
+- Snowflake
  
 <br>
 
@@ -30,7 +37,7 @@
     <td>
       <h3 align="center">Pronóstico del clima</h3>
       <div align="center">
-        <a href="https://github.com/eliasalasia/Project-Final-N3EA.git" target="_blank"><img src="https://i.imgur.com/sVCdJBV.png" width="400"></a>
+        <a href="https://github.com/eliasalasia/Project-Final-N3EA.git" target="_blank"></a>
         <p>Aplicación - En este Proyecto utilicé una API del clima y de ubicación. Su función es detectar el clima actual y de los 5 días restantes.</p>
       </div>
     </td>
